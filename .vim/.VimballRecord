@@ -1,0 +1,3 @@
+Align.vba: call delete('/Users/Metamorph/.vim/plugin/AlignPlugin.vim')|call delete('/Users/Metamorph/.vim/plugin/AlignMapsPlugin.vim')|call delete('/Users/Metamorph/.vim/plugin/cecutil.vim')|call delete('/Users/Metamorph/.vim/doc/Align.txt')|call delete('/Users/Metamorph/.vim/autoload/Align.vim')|call delete('/Users/Metamorph/.vim/autoload/AlignMaps.vim')
+cecutil.vba: call delete('/Users/Metamorph/.vim/plugin/cecutil.vim')|call delete('/Users/Metamorph/.vim/doc/cecutil.txt')
+vis.vba: call delete('/Users/Metamorph/.vim/plugin/visPlugin.vim')|call delete('/Users/Metamorph/.vim/autoload/vis.vim')|call delete('/Users/Metamorph/.vim/plugin/cecutil.vim')|call delete('/Users/Metamorph/.vim/doc/vis.txt')
